@@ -1,4 +1,5 @@
+alert('Notice, in order for this to work, make sure you have pop-ups allowed for this link')
+alert('Get Google Chrome spammed')
 while (true){
-	//alert('Try to escape')
 	window.open('https://google.com/')
 }
